@@ -2,7 +2,7 @@
 <h3>A junior full stack web developer in Auckland, New Zealand</h3>
 
 - 🔭 I like building apps with JS and automating things with Python.
-- 🌱 I’m currently learning **Next JS, React and Solidity** and working with [Web 3.0](https://coinmarketcap.com/alexandria/article/what-is-web-3-0) technologies.
+- 🌱 I’m currently learning **TypeScript, React and Solidity** and working with [Web 3.0](https://coinmarketcap.com/alexandria/article/what-is-web-3-0) technologies.
 - 🐱‍💻 I previously made [AirCode](http://aircode.raza.run), [CryptoWidgets](https://cryptowidgets.xyz), [Cyleum domains](https://domains.cyleum.io) and more.
  
 <p align="left">
