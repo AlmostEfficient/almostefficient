@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Abdullah Raza</h1>
-<h3>A junior full stack web developer in Auckland, New Zealand</h3>
+<h3>A full stack web developer in Auckland, New Zealand</h3>
 
 - 🔭 I like building apps with JS and automating things with Python.
 - 🌱 I’m currently learning **TypeScript, React and Solidity** and working with [Web 3.0](https://coinmarketcap.com/alexandria/article/what-is-web-3-0) technologies.
