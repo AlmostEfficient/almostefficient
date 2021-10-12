@@ -1,9 +1,10 @@
-<h1 >Hi 👋, I'm Abdullah Raza</h1>
-<h3>A full stack web developer in Auckland, New Zealand</h3>
+<h2 >Hi 👋, I'm Abdullah Raza</h2>
 
-- 🔭 I like building apps with JS and automating things with Python.
+- 🔭 I like building apps with JS/TS and automating things with Python.
 - 🌱 I’m currently learning **TypeScript, React and Solidity** and working with [Web 3.0](https://coinmarketcap.com/alexandria/article/what-is-web-3-0) technologies.
 - 🐱‍💻 I previously made [AirCode](http://aircode.raza.run), [CryptoWidgets](https://cryptowidgets.xyz), [Cyleum domains](https://domains.cyleum.io) and more.
+ 
+ [![wakatime](https://wakatime.com/badge/user/88b792b9-7b19-4495-867d-1f3cdb5ded06.svg)](https://wakatime.com/@88b792b9-7b19-4495-867d-1f3cdb5ded06)
  
 <p align="left">
 <h4 align="left">Connect with me:</h4>
