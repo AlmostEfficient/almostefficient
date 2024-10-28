@@ -1,7 +1,7 @@
-<h2 >Hi 👋, I'm Abdullah Raza</h2>
+<h2 >Hi 👋, I'm  Raza</h2>
 
-- 🔭 I like building web apps with JS/TS and automating things with Python.
-- 🌱 I’m currently learning **TypeScript, React, Rust and Solidity**.
+- 🔭 I teach developers how to build things people want.
+- 🌱 I’m currently learning and teaching **TypeScript, React and Rust**.
 - 🐱‍💻 I helped make most of the [buildspace projects](https://buildspace.so/p), they're pretty cool, check em out!
  
  [![wakatime](https://wakatime.com/badge/user/88b792b9-7b19-4495-867d-1f3cdb5ded06.svg)](https://wakatime.com/@88b792b9-7b19-4495-867d-1f3cdb5ded06)
